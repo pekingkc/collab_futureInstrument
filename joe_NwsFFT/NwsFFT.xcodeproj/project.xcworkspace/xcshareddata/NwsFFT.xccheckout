@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EB68A80-D781-4423-ABE4-1D36C209C760</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NwsFFT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>55DCB588EA353F021C60E8925108FC2E401212BC</key>
+		<string>https://github.com/jmsaavedra/NWS_Collabs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Spring_2015/joe_NwsFFT/NwsFFT.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>55DCB588EA353F021C60E8925108FC2E401212BC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jmsaavedra/NWS_Collabs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>55DCB588EA353F021C60E8925108FC2E401212BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>55DCB588EA353F021C60E8925108FC2E401212BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NWS_Collabs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
